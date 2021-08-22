@@ -1,4 +1,10 @@
 h1 {
-    color: skyblue;
+    color: rgb(204, 53, 204);
     font-weight: normal;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(164, 201, 235);
 }
